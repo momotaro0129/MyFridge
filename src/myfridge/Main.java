@@ -1,5 +1,5 @@
 package myfridge;
-
+適当な追加
 /**
  * UserInterface#run() を実行するmainメソッドをもつクラス
  */
